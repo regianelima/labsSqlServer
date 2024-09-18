@@ -1,4 +1,4 @@
-# labsSqlServer
+# Laboratórios SQL Server 
 
 ###### Repositório para variados laboratórios realizados para o banco de dados SQL Server
 
